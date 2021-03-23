@@ -7,8 +7,6 @@ Currently working as manager in the telecommunications unit, whose mission is to
 VS Code fan
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on The Digital Transformation of my house...
 - 🌱 I’m currently learning Deeplearning
 - 🤔 I’m looking for help with the world
